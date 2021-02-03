@@ -1,0 +1,4 @@
+Username:
+Password:
+
+Leave the "Username: " and "Password: ". Enter login information
